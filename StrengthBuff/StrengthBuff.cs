@@ -12,7 +12,7 @@ namespace StrengthBuff
     public class PluginInfo
     {
         public const string Name = "Strength Buff";
-        public const string Guid = "deadcliffdivers.StrengthBuff";
+        public const string Guid = "beardedkwan.StrengthBuff";
         public const string Version = "1.0.0";
     }
 
